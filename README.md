@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
 
-# init project
+# Init of project
 
 Run `npm install` for install node_module  in your project.
 
